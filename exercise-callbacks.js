@@ -1,4 +1,4 @@
-// Exercise 1 (if/else callbacks) 
+// Exercise 1 (running a sequence of callbacks in a desired order) 
 // ------------------------------------------
 // Create a function that accepts 3 callbacks and executes them in 2, 3, 1  order.
 //   If the minute of the current hour is odd, run the first, if it is even, run the second  
