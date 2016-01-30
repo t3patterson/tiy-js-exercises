@@ -49,6 +49,7 @@ function generateHTMLUnorderedListLinks(arr){
 
 // eg. result = [
 //  {firstName: 'Chuck', lastName: 'Norris'}
+//  ...
 // ]
 //
 
@@ -75,5 +76,6 @@ function stringArrayToObjectArray(arr){
 
   return arrayOfObjects
 }
+
 
 
